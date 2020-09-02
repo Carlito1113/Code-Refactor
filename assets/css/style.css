@@ -4,6 +4,9 @@
     margin: 0;
 }
 
+
+/* many elements have the same styling, consolidate them. Instead of having multiple class names for the same styles, consolidate into one class name. */
+
 body {
     background-color: #d9dcd6;
 }
